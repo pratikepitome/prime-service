@@ -55,5 +55,5 @@ and execute `prime.feature` file in IDE
 
 ## Feedback
 
-If you have any feedback, please reach out to us at pratik.epitome@gmail.com
+If you have any feedback, please reach out to me at pratik.epitome@gmail.com
 
