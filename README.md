@@ -43,6 +43,10 @@ Start the server
   mvn spring-boot:run
 ```
 
+``Parameters``
+1. Number - Any integer value
+2. Algorithm - It can have `Sieve` or `Stream`
+
 ## Running Tests
 
 To run unit tests, run the following command
